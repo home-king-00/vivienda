@@ -18,6 +18,8 @@
         - Redux Saga
     - 백엔드
         - Express
+    - 서버
+        - AWS EC2
     - 개발 내용
         - 견적문의를 작성하여 이메일 전송하는 기능
 
@@ -42,4 +44,3 @@
 > 비비엔다 종합주택 고객센터 페이지
 >
 > <img src="images/vivienda_service_center.png" alt="비비엔다 종합주택 고객센터 페이지" />
->>>>>>> 3132cbc (비비엔다 종합주택 README.md 작성)
